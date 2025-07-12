@@ -272,7 +272,7 @@
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="nav-container">
-            <a href="#home" class="logo">dishank uttam</a>
+            <a href="#home" class="logo">ayush singh</a>
             <ul class="nav-menu" id="nav-menu">
                 <li class="nav-item">
                     <a href="#home" class="nav-link">Home</a>
